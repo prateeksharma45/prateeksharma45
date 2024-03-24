@@ -10,4 +10,7 @@
   <a href="https://www.linkedin.com/in/prateeksharma45">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://instagram.com/prateeksharma_45">
+    <img src="https://img.shields.io/badge/-Instagram-F44747?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
 </div>
