@@ -1,4 +1,4 @@
-![A Passionate Frontend Web Developer from Delhi, India 📍](https://prateek-sharma.netlify.app/Assets/poster-desktop.jpg)
+![A Passionate Frontend Web Developer from Delhi, India 📍](https://raw.githubusercontent.com/prateeksharma45/prateeksharma45/main/prateek-sharma.jpg)
 # Hi there 👋, I'm Prateek
 ### A Passionate Frontend Web Developer from Delhi, India 📍
 
