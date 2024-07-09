@@ -1,14 +1,14 @@
-![A Passionate Frontend Web Developer from Delhi, India 📍](https://raw.githubusercontent.com/prateeksharma45/prateeksharma45/main/prateek-sharma.jpg)
-# Hi there 👋, I'm Prateek Sharma
-### A Passionate Frontend Web Developer from Delhi, India 📍
+# Hey there 👋, I'm Prateek!
+### A passionate Web Developer based in Delhi, India 📍
 
-🚀 Enthusiastic Frontend Web Developer | HTML, CSS, JavaScript and leveling up with GSAP! 💻 Excited about creating sleek and responsive websites, my focus is on crafting dynamic interfaces with clean, optimized code. 🛠️ Let's team up to turn your vision into a vibrant online reality! 🌟
+🚀 An enthusiastic Web Developer with a passion for crafting sleek, responsive websites. I specialize in creating dynamic interfaces and writing clean, optimized code. 🛠️ Let's bring your vision to vibrant online reality! 🌟
 
 ### Skills 🛠️
 - HTML
 - CSS
 - JavaScript
 - GSAP (GreenSock Animation Platform)
+- React
 
 ### Socials 📱
 <div id="badges">
