@@ -13,10 +13,12 @@
 ###
 
 <p align="left">🚀 An enthusiastic Web Developer with a passion for crafting sleek, responsive websites. I specialize in creating dynamic interfaces and writing clean, optimized code. 🛠️ Let's bring your vision to vibrant online reality! 🌟</p>
-
-###
-
-<div align="center">
+<ul align="left">
+  <li>🌍 I'm based in Delhi, India</li>
+  <li>🖥️ See my portfolio at <a href="http://prateeksharma.xyz" target="_blank">prateeksharma.xyz</a></li>
+  <li><b>Socials</b> 👇</li>
+  <br>
+<div align="left">
   <a href="https://www.linkedin.com/in/prateeksharma45" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -24,8 +26,9 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
 </div>
+</ul>
 
-###
+##
 
 <h3 align="left">My Digital Toolkit 🛠️</h3>
 
