@@ -1,10 +1,8 @@
+[<img src="https://github.com/user-attachments/assets/5d9a4131-191a-437f-85f5-f1ab37b5c58b" alt="Banner"/>](https://prateeksharma.xyz)
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=prateeksharma45.prateeksharma45&"  />
 </div>
-
-###
-
-<h1 align="center">Hey there <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="wave" width="30"/>, I'm Prateek!</h1>
 
 ###
 
@@ -14,8 +12,6 @@
 
 <p align="left">🚀 An enthusiastic Web Developer with a passion for crafting sleek, responsive websites. I specialize in creating dynamic interfaces and writing clean, optimized code. 🛠️ Let's bring your vision to vibrant online reality! 🌟</p>
 <ul align="left">
-  <li>🌍 I'm based in Delhi, India</li>
-  <li>🖥️ See my portfolio at <a href="http://prateeksharma.xyz" target="_blank">prateeksharma.xyz</a></li>
   <li><b>Socials</b> 👇</li>
   <br>
 <div align="left">
