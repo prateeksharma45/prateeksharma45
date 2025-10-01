@@ -8,13 +8,12 @@
 
 <h1 align="left">Hi 👋, I'm Prateek</h1>
 <h3 align="left">A full stack developer based in Delhi, India 📍</h3>
+<p align="left">👨‍💻 Hello, I'm Prateek Sharma, a full-stack engineer specializing in the MERN stack. I like building scalable, intuitive web applications, crafting beautiful user interfaces, and solving complex problems with clean, efficient code that transforms ideas into impactful digital experiences.</p>
 
-###
+---
 
-<p align="left">🚀 An enthusiastic Web Developer with a passion for crafting sleek, responsive websites. I specialize in creating dynamic interfaces and writing clean, optimized code. 🛠️ Let's bring your vision to vibrant online reality! 🌟</p>
-<ul align="left">
-  <li><b>Socials</b> 👇</li>
-  <br>
+<h3 align="left">Socials 👇</h3>
+
 <div align="left">
   <a href="https://www.linkedin.com/in/prateeksharma45" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -23,13 +22,10 @@
     <img src="https://img.shields.io/static/v1?message=X.com&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
 </div>
-</ul>
 
-##
+---
 
 <h3 align="left">My Digital Toolkit 🛠️</h3>
-
-###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
