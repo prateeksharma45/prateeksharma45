@@ -1,4 +1,4 @@
-[<img src="https://github.com/user-attachments/assets/5d9a4131-191a-437f-85f5-f1ab37b5c58b" alt="Banner"/>](https://prateeksharma.xyz)
+[<img src="https://raw.githubusercontent.com/prateeksharma45/prateeksharma45/refs/heads/main/Github%20Banner.png" alt="Banner"/>](https://prateek.codes)
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=prateeksharma45.prateeksharma45&"  />
