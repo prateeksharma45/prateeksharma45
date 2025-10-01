@@ -8,7 +8,7 @@
 
 <h1 align="left">Hi 👋, I'm Prateek</h1>
 <h3 align="left">A full stack developer based in Delhi, India 📍</h3>
-<p align="left">👨‍💻 Hello, I'm Prateek Sharma, a full-stack engineer specializing in the MERN stack. I like building scalable, intuitive web applications, crafting beautiful user interfaces, and solving complex problems with clean, efficient code that transforms ideas into impactful digital experiences.</p>
+<p align="left">👨‍💻 Hello, I'm Prateek Sharma, a full-stack developer specializing in the MERN stack. I like building scalable, intuitive web applications, crafting beautiful user interfaces, and solving complex problems with clean, efficient code that transforms ideas into impactful digital experiences.</p>
 
 ---
 
